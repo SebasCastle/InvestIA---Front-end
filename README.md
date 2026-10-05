@@ -37,8 +37,8 @@ See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rule
 
 | Inicio | Dashboard |
 | --- | --- |
-| ![Inicio de InvestIA](../docs/Login.png) | ![Inforación de tus stocks](../docs/Mercado-Real.png) |
+| ![Inicio de InvestIA](docs/Login.png) | ![Inforación de tus stocks](docs/Mercado-Real.png) |
 
 | Portafolio | InvestIA |
 | --- | --- |
-| ![Portafolio](../docs/portafolioIA.png) | ![Potencia tu analisis con IA](../docs/InvestIA.png) |
+| ![Portafolio](docs/portafolioIA.png) | ![Potencia tu analisis con IA](docs/InvestIA.png) |
