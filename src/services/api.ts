@@ -2,6 +2,7 @@ import { toast } from 'sonner';
 import { tokenStorage } from './token-storage';
 
 const API_URL = import.meta.env.VITE_API_URL ?? 'http://localhost:3000/api';
+console.log('[InvestAI] API URL:', API_URL);
 
 export class ApiError extends Error {
   readonly status: number;
